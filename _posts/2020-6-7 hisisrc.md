@@ -1,3 +1,14 @@
+---
+layout: post
+title:  "海思个人源码"
+date:   2021-8-1
+categories: C Linux  hispark
+tags: Using C/C++
+excerpt: 个人源码记录
+--- 
+
+
+
 #include <iostream>
 #include <opencv2/core.hpp>
 #include <opencv2/highgui.hpp>
