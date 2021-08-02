@@ -4,7 +4,7 @@ title:  "哪吒的眼睛的demo"
 date:   2021-08-4 10:04
 categories: vscode
 tags: V4L2 C Linux
-excerpt: 
+excerpt: 在哪吒上使用摄像头完成一些操作（未完）
 ---
 
 
