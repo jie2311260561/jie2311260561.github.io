@@ -21,3 +21,13 @@ excerpt: 缩减C盘空间
     成功创建   yes！ 
 ```
 
+# nite 2 
+
+```
+mklink /j "C:\Users\23112\.huawei-liteos-studio" "E:\Users\23112\.huawei-liteos-studio"
+
+mklink /j "C:\Users\23112\.stm32cubemx" "E:\Users\23112\.stm32cubemx"
+
+mklink /j "C:\Users\23112\openSourceTools" "E:\Users\23112\openSourceTools"
+
+```
