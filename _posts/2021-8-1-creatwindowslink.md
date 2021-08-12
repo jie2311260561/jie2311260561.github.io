@@ -31,3 +31,13 @@ mklink /j "C:\Users\23112\.stm32cubemx" "E:\Users\23112\.stm32cubemx"
 mklink /j "C:\Users\23112\openSourceTools" "E:\Users\23112\openSourceTools"
 
 ```
+
+# note 3
+
+```
+mklink /j "C:\Program Files\Adobe" "D:\Program Files\Adobe"
+```
+
+edge 还真是用存储大户  绝中绝！ 
+
+code 中的workspace也会定期进行备份  需要删除的！
