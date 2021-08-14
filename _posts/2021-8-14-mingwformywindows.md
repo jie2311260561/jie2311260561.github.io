@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "mingw 在我电脑上的部署"
-date:   2021-8-114
+date:   2021-8-14
 categories: tools
 tags: gcc mingw 
 excerpt: mingw安装在自己电脑使用gcc工具
