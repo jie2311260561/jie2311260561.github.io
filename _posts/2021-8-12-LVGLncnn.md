@@ -7,4 +7,6 @@ tags: Linux 思考 Tools
 excerpt: 收获
 --- 
 
-## 待更新...
+## ncnn的部署
+
+使用ncnn的编译方放 来 编译 LVGL 会出现 段错误的问题程序跑不起来！
