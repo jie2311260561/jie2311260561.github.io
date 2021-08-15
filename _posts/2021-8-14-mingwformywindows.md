@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "mingw 在我电脑上的部署"
-date:   2021-8-114
+date:   2021-8-14
 categories: tools
 tags: gcc mingw 
 excerpt: mingw安装在自己电脑使用gcc工具
@@ -33,6 +33,7 @@ gcc version 8.1.0 (x86_64-posix-seh-rev0, Built by MinGW-W64 project)
 
 
 # 准备vscode 的环境
+
 
 task.json
 ```
